@@ -20,7 +20,7 @@ The portal home page provides a concise, visually engaging overview of placement
 
 ⚡ Local Setup Instructions
 1.Fork this repository
-  Click the “Fork” button at the top-right of this page to add a copy to your GitHub        account.
+  Click the “Fork” button at the top-right of this page to add a copy to your GitHub account.
 2.Clone the Repository:
   git clone <repository-url>
 3.Navigate to the Project Directory:
