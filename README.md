@@ -1,56 +1,74 @@
-🏫 University Placement Portal Home Page 🏫
+# 🏫 University Placement Portal – Home Page
 
-University Placement Portal Home Page Project
+Welcome to the *University Placement Portal Home Page* project.
 
-🌟 Project Overview
+## 🌟 Project Overview
 
-This repository contains the source code for the Home Page of a University Placement Portal, developed by Gali Rohith Kumar.
+This repository hosts the source code for the *Home Page* of a University Placement Portal.
+The page offers a visually engaging and concise summary of placement highlights, services, and student success stories — designed to showcase the university’s strong placement ecosystem.
 
-The portal home page provides a concise, visually engaging overview of placement achievements, features, processes, and student testimonials, helping visitors quickly grasp the value offered by the university’s placement services.
+---
 
-✨ Key Features
+## ✨ Key Features
 
-📊 Placement Statistics: Highlights placed students, recruiters, packages, and placement percentages.
+* 📊 *Placement Statistics*
+  Displays metrics like students placed, top recruiters, salary packages, and placement percentage.
 
-⚙️ Key Features Section: Showcases placement support, company connections, career counseling, and interview preparation.
+* ⚙ *Feature Highlights*
+  Includes placement support, industry connections, counseling, and interview preparation.
 
-📝 Placement Process: Visual description of the placement process in simple steps.
+* 📝 *Placement Process*
+  Simple, step-by-step visualization of how the placement process works.
 
-💬 Student Testimonials: Success stories from placed students.
+* 💬 *Student Testimonials*
+  Success stories and experiences from students placed through campus recruitment.
 
-📱 Responsive Design: Mobile-friendly interface for all devices.
+* 📱 *Responsive Design*
+  Fully mobile-friendly layout for various devices.
 
-🏛️ Modern UI: Clean, professional layout and color scheme.
+* 🏛 *Modern UI/UX*
+  Clean design, elegant color scheme, and smooth animations.
 
-💻 Technology Stack
+---
 
-.HTML5: Markup and structure
+## 💻 Technology Stack
 
-.CSS3: Styling, responsiveness, and animations
+* *HTML5* – Markup and structure
+* *CSS3* – Styling, responsiveness, and animations
 
+---
 
-⚡ Local Setup Instructions
+## ⚡ Local Setup Instructions
 
-1.Fork this repository
+1. *Fork the repository*
+   Click the *Fork* button on the top-right of this page.
 
-  Click the “Fork” button at the top-right of this page to add a copy to your GitHub account.
-  
-2.Clone the Repository:
+2. *Clone your forked repository*
 
-  git clone https://github.com/Rohith-084/university_placement_portal.git
-  
-3.Navigate to the Project Directory.
-  
-🧑‍💻 Developed By
-
-   Gali Rohith Kumar
+   bash
+   git clone https://github.com/Rohith-084/university_placement_portal.git
    
-🙏 Acknowledgements
 
-.Dr. Monit Kapoor Sir
+3. *Navigate to the project directory*
 
-.All students and mentors providing feedback and support
+   bash
+   cd university_placement_portal
+   
 
-.The open-source web development community
+---
 
-This repository focuses on the Home Page only. Future updates may expand functionality!
+## 🧑‍💻 Developed By
+
+*Gali Rohith Kumar*
+
+---
+
+## 🙏 Acknowledgements
+
+* *Dr. Monit Kapoor Sir* – For valuable guidance
+* *Students and mentors* – For feedback and encouragement
+* *Open-source community* – For web development tools and inspiration
+
+---
+
+> 📌 Note: This project currently includes only the Home Page. More features and pages will be added in future updates!
