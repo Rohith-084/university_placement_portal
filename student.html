@@ -72,6 +72,14 @@
       <p>&copy; 2025 Amity University - All Rights Reserved</p>
     </div>
   </footer>
+<script>
+  document.querySelector('.student-form').addEventListener('submit', function(e) {
+    if (!confirm('Are you sure you want to submit your profile?')) {
+      e.preventDefault();
+    }
+  });
+</script>
+
 </body>
 </html>
 
